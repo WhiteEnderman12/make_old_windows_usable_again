@@ -1,6 +1,6 @@
 # Welcome to "Make old windows usable again"
 
-## Note: this entire build is experimental and won't work correctly with the assets. I can't share the assets because of copyright.
+## Note: this entire build is experimental and won't work correctly without the assets. I can't share the assets because of copyright.
 
 ## what is this?
 this repository is dedicated to a software that I'm currently working on that will make old windows usable again on the modern web.
